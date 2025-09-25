@@ -1,0 +1,272 @@
+[
+  {
+    "text": "John has 10 apples and eats 3. How many are left?",
+    "category": "mathematics",
+    "subcategory": "word_problems",
+    "expected_capability": "mathematics_word_problems"
+  },
+  {
+    "text": "Cats and dogs are pets.",
+    "category": "semantics",
+    "subcategory": "word_relations",
+    "expected_capability": "semantics_word_relations"
+  },
+  {
+    "text": "The sun rises in the east and sets in the west.",
+    "category": "reasoning",
+    "subcategory": "common_sense",
+    "expected_capability": "reasoning_common_sense"
+  },
+  {
+    "text": "Birds fly in the blue sky.",
+    "category": "syntax",
+    "subcategory": "simple_sentence",
+    "expected_capability": "syntax_simple_sentence"
+  },
+  {
+    "text": "Doctors and nurses work in hospitals.",
+    "category": "semantics",
+    "subcategory": "word_relations",
+    "expected_capability": "semantics_word_relations"
+  },
+  {
+    "text": "Who can help solve this problem?",
+    "category": "syntax",
+    "subcategory": "question_sentence",
+    "expected_capability": "syntax_question_sentence"
+  },
+  {
+    "text": "Her voice is music to my ears.",
+    "category": "semantics",
+    "subcategory": "metaphor",
+    "expected_capability": "semantics_metaphor"
+  },
+  {
+    "text": "100 ÷ 5 = 20",
+    "category": "mathematics",
+    "subcategory": "arithmetic",
+    "expected_capability": "mathematics_arithmetic"
+  },
+  {
+    "text": "How are you doing today?",
+    "category": "syntax",
+    "subcategory": "question_sentence",
+    "expected_capability": "syntax_question_sentence"
+  },
+  {
+    "text": "Although it was raining, they continued their journey.",
+    "category": "syntax",
+    "subcategory": "complex_sentence",
+    "expected_capability": "syntax_complex_sentence"
+  },
+  {
+    "text": "12 × 4 = 48",
+    "category": "mathematics",
+    "subcategory": "arithmetic",
+    "expected_capability": "mathematics_arithmetic"
+  },
+  {
+    "text": "Heavy objects fall down due to gravity.",
+    "category": "reasoning",
+    "subcategory": "common_sense",
+    "expected_capability": "reasoning_common_sense"
+  },
+  {
+    "text": "Apples and oranges are both fruits.",
+    "category": "semantics",
+    "subcategory": "word_relations",
+    "expected_capability": "semantics_word_relations"
+  },
+  {
+    "text": "While she was cooking, the phone rang.",
+    "category": "syntax",
+    "subcategory": "complex_sentence",
+    "expected_capability": "syntax_complex_sentence"
+  },
+  {
+    "text": "Why did you choose this option?",
+    "category": "syntax",
+    "subcategory": "question_sentence",
+    "expected_capability": "syntax_question_sentence"
+  },
+  {
+    "text": "Fire is hot and ice is cold.",
+    "category": "reasoning",
+    "subcategory": "common_sense",
+    "expected_capability": "reasoning_common_sense"
+  },
+  {
+    "text": "Flowers bloom in spring.",
+    "category": "syntax",
+    "subcategory": "simple_sentence",
+    "expected_capability": "syntax_simple_sentence"
+  },
+  {
+    "text": "Life is a journey.",
+    "category": "semantics",
+    "subcategory": "metaphor",
+    "expected_capability": "semantics_metaphor"
+  },
+  {
+    "text": "The teacher explains the lesson clearly.",
+    "category": "syntax",
+    "subcategory": "simple_sentence",
+    "expected_capability": "syntax_simple_sentence"
+  },
+  {
+    "text": "He has a heart of stone.",
+    "category": "semantics",
+    "subcategory": "metaphor",
+    "expected_capability": "semantics_metaphor"
+  },
+  {
+    "text": "If you work diligently, you will succeed.",
+    "category": "syntax",
+    "subcategory": "complex_sentence",
+    "expected_capability": "syntax_complex_sentence"
+  },
+  {
+    "text": "15 - 7 = 8",
+    "category": "mathematics",
+    "subcategory": "arithmetic",
+    "expected_capability": "mathematics_arithmetic"
+  },
+  {
+    "text": "Plants need sunlight for photosynthesis.",
+    "category": "reasoning",
+    "subcategory": "common_sense",
+    "expected_capability": "reasoning_common_sense"
+  },
+  {
+    "text": "When did the meeting start?",
+    "category": "syntax",
+    "subcategory": "question_sentence",
+    "expected_capability": "syntax_question_sentence"
+  },
+  {
+    "text": "The speed of light is approximately 300,000 km/s.",
+    "category": "knowledge",
+    "subcategory": "factual",
+    "expected_capability": "knowledge_factual"
+  },
+  {
+    "text": "3 + 5 = 8",
+    "category": "mathematics",
+    "subcategory": "arithmetic",
+    "expected_capability": "mathematics_arithmetic"
+  },
+  {
+    "text": "A year has 365 days (or 366 in leap years).",
+    "category": "knowledge",
+    "subcategory": "factual",
+    "expected_capability": "knowledge_factual"
+  },
+  {
+    "text": "The capital of France is Paris.",
+    "category": "knowledge",
+    "subcategory": "factual",
+    "expected_capability": "knowledge_factual"
+  },
+  {
+    "text": "Time is money.",
+    "category": "semantics",
+    "subcategory": "metaphor",
+    "expected_capability": "semantics_metaphor"
+  },
+  {
+    "text": "Because he studied hard, he passed the exam.",
+    "category": "syntax",
+    "subcategory": "complex_sentence",
+    "expected_capability": "syntax_complex_sentence"
+  },
+  {
+    "text": "Fish live in water and cannot breathe on land.",
+    "category": "reasoning",
+    "subcategory": "common_sense",
+    "expected_capability": "reasoning_common_sense"
+  },
+  {
+    "text": "Only students who study hard get good grades. John got good grades.",
+    "category": "reasoning",
+    "subcategory": "logical_inference",
+    "expected_capability": "reasoning_logical_inference"
+  },
+  {
+    "text": "Students are studying in the library.",
+    "category": "syntax",
+    "subcategory": "simple_sentence",
+    "expected_capability": "syntax_simple_sentence"
+  },
+  {
+    "text": "Water has the chemical formula H2O.",
+    "category": "knowledge",
+    "subcategory": "factual",
+    "expected_capability": "knowledge_factual"
+  },
+  {
+    "text": "A car travels 60 km/h. How far in 3 hours?",
+    "category": "mathematics",
+    "subcategory": "word_problems",
+    "expected_capability": "mathematics_word_problems"
+  },
+  {
+    "text": "If today is Monday, then tomorrow is Tuesday. Today is Monday.",
+    "category": "reasoning",
+    "subcategory": "logical_inference",
+    "expected_capability": "reasoning_logical_inference"
+  },
+  {
+    "text": "A class has 30 students, 15 are boys. How many are girls?",
+    "category": "mathematics",
+    "subcategory": "word_problems",
+    "expected_capability": "mathematics_word_problems"
+  },
+  {
+    "text": "Knowledge is power.",
+    "category": "semantics",
+    "subcategory": "metaphor",
+    "expected_capability": "semantics_metaphor"
+  },
+  {
+    "text": "Spring, summer, autumn, and winter are seasons.",
+    "category": "semantics",
+    "subcategory": "word_relations",
+    "expected_capability": "semantics_word_relations"
+  },
+  {
+    "text": "The Earth orbits around the Sun.",
+    "category": "knowledge",
+    "subcategory": "factual",
+    "expected_capability": "knowledge_factual"
+  },
+  {
+    "text": "Where can I find this book?",
+    "category": "syntax",
+    "subcategory": "question_sentence",
+    "expected_capability": "syntax_question_sentence"
+  },
+  {
+    "text": "The cat is sleeping on the couch.",
+    "category": "syntax",
+    "subcategory": "simple_sentence",
+    "expected_capability": "syntax_simple_sentence"
+  },
+  {
+    "text": "Since it's late, we should go home.",
+    "category": "syntax",
+    "subcategory": "complex_sentence",
+    "expected_capability": "syntax_complex_sentence"
+  },
+  {
+    "text": "Red, yellow, and blue are primary colors.",
+    "category": "semantics",
+    "subcategory": "word_relations",
+    "expected_capability": "semantics_word_relations"
+  },
+  {
+    "text": "All birds have wings. Penguins are birds. Therefore, penguins have wings.",
+    "category": "reasoning",
+    "subcategory": "logical_inference",
+    "expected_capability": "reasoning_logical_inference"
+  }
+]
