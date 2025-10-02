@@ -165,7 +165,6 @@ class ContinuousLayerSimilarityCalculator:
             
         elif similarity_metric == 'cka':
             try:
-                # CKA相似度
                 similarity = cka_similarity(block_input, block_output, kernel_type='linear')
                 return similarity, similarity
             except Exception as e:
